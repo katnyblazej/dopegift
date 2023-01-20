@@ -1,0 +1,18 @@
+.section {
+    display: none;
+}
+
+
+
+.contentScrollable {
+    width: 90vw;
+    background-color: blue;
+    white-space: nowrap;
+    overflow-x: scroll;
+    color: white;
+    padding: 10px;
+}
+
+.amazonIframe {
+    display: inline-block;
+}
